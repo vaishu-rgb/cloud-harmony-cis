@@ -3,32 +3,34 @@
 **Cloud Harmony** is a modern multi-cloud management platform designed to help users monitor, manage, and optimize resources across different cloud providers through a clean and interactive interface.
 
 ---
+
 ## Deployment Link
-https://cloud-harmony-cis.vercel.app/
----
+
+## https://cloud-harmony-cis.vercel.app/
 
 ## 🚀 Features
 
-- 🌐 **Multi-cloud resource management**  
-- 📊 **Interactive dashboard for monitoring**  
-- ⚡ **Real-time updates and insights**  
-- 🎨 **Clean and responsive UI**  
-- 🔧 **Scalable frontend architecture**  
+- 🌐 **Multi-cloud resource management**
+- 📊 **Interactive dashboard for monitoring**
+- ⚡ **Real-time updates and insights**
+- 🎨 **Clean and responsive UI**
+- 🔧 **Scalable frontend architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, TypeScript  
-- **Styling:** Tailwind CSS  
-- **Build Tool:** Vite  
-- **State Management:** Zustand  
-- **Data Visualization:** Recharts  
-- **UI Components:** Radix UI  
+- **Frontend:** React.js, TypeScript
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **State Management:** Zustand
+- **Data Visualization:** Recharts
+- **UI Components:** Radix UI
 
 ---
 
 ## 📂 Project Structure
+
 cloud-harmony/
 
 │── src/
@@ -49,20 +51,26 @@ cloud-harmony/
 
 │── vite.config.ts
 
-
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/vaishu-rgb/cloud-harmony-cis.git
 ```
+
 ### 2. Navigate to project folder
+
 cd cloud-harmony
+
 ### 3. Install dependencies
+
 npm install
+
 ### 4. Run the development server
+
 npm run dev
 
 ## 👉 Open in browser: http://localhost:8080/
@@ -81,16 +89,19 @@ npm run dev
 
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/263936b9-f5c5-437f-9bad-a8a127c29587" />
 
-
 ## 📌 Future Improvements
+
 - 🔐 Authentication system
 - ☁️ Integration with cloud providers (AWS, Azure, GCP)
 - 📈 Advanced analytics dashboard
 - 📱 Improved mobile responsiveness
 
 ## 👩‍💻 Author
+
 Somu Vaishnavi
 GitHub: https://github.com/vaishu-rgb
+Nidumolu Veda Samhita
+GitHub: https://github.com/Veda1908
 
 ## 📄 License
 
