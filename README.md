@@ -102,6 +102,8 @@ Somu Vaishnavi
 GitHub: https://github.com/vaishu-rgb
 Nidumolu Veda Samhita
 GitHub: https://github.com/Veda1908
+Maineni Srihitha
+GitHub: https://github.com/srihitha-30405
 
 ## 📄 License
 
